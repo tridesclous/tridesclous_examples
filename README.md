@@ -9,11 +9,10 @@ So all jupyter here can be reproduced in the tridesclous GUI step by step with i
 Special thank to all lab and team that provide there dataset in free access.
 It help a lot people writting toolbox and methods.
 
-Analysed datset:
+Tested datasets with tridesclous:
 
   * [Kampff lab - Polytrode impedance](http://www.kampff-lab.org/polytrode-impedance/)
-  * [Kampff lab - Ultra dense](http://www.kampff-lab.org/ultra-dense-survey/)  
-
-
-
+  * [Kampff lab - Ultra dense](http://www.kampff-lab.org/ultra-dense-survey/) 
+  * [Spampinato - Ground truth - Mice retina](https://zenodo.org/record/1205233#.W_QnR3VKjRa)
+  * [Brochier - motor cortex -  macaque](https://www.nature.com/articles/sdata201855)
 
